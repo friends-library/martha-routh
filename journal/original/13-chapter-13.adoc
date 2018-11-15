@@ -1,8 +1,9 @@
 == Chapter XIII.
 
-Her further travels--Her last illness and decease --The
-Testimony of Hardshaw East monthly meeting,
-concerning her.
+[.chapter-synopsis]
+* Her further travels
+* Her last illness and decease
+* The Testimony of Hardshaw East monthly meeting concerning her.
 
 Towards the close of the year 1808,
 Martha Routh was visited with a painful cough and affection of the lungs,
@@ -48,7 +49,11 @@ through thy adorable mercy, have seen thy salvation.`"
 
 The account of her illness and decease, are comprised in the following testimony.
 
-Testimony from the monthly meeting of Hardshaw East, concerning Martha Routh, deceased.
+[.embedded-content-document.testimony]
+--
+
+[.blurb]
+=== Testimony from the monthly meeting of Hardshaw East, concerning Martha Routh, deceased.
 
 Our beloved friend Martha Routh was born at Stourbridge, in Worcestershire,
 the 26th of fourth month, 1743, O. S. Her parents Henry and Jane Winter,
@@ -136,5 +141,7 @@ and was interred in Friends' burial ground at Bunhill Fields, the 25th of the sa
 after a solemn meeting at Devonshire-House; aged seventy-four,
 and a minister near forty-five years.
 
-Given forth at our monthly meeting of Hardshaw East, held at Manchester,
-the 27th of the eleventh month, 1817.
+[.signed-section-closing]
+Given forth at our monthly meeting of Hardshaw East, held at Manchester, the 27th of the eleventh month, 1817.
+
+--

@@ -1,6 +1,8 @@
 == Chapter IV.
 
-Goes to America--Incidents on the voyage.
+[.chapter-synopsis]
+* Goes to America
+* Incidents on the voyage.
 
 For several years previous to her last journey, Martha Routh had had a prospect,
 that it might become her religious duty,
@@ -271,4 +273,3 @@ by the men Friends who were passengers.
 
 Our friend landed the 23rd of the ninth month,
 from which period her narrative proceeds in the next chapter.
-

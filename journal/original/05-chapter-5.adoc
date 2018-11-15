@@ -1,6 +1,7 @@
 == Chapter V.
 
-Her labours during the remainder of the year 1794 and part of 1795.
+[.chapter-synopsis]
+* Her labours during the remainder of the year 1794 and part of 1795.
 
 On fifth-day, the 25th of ninth month, I attended the week-day meeting at Boston,
 in company with my valued brethren Samuel Emlen and John Wigham,
@@ -753,7 +754,7 @@ of which number were several both of the younger and elder rank:
 their children appear to be hopeful plants.
 
 At Longplain monthly meeting on sixth-day,
-an acknowledgement was presented ft-om a Friend,
+an acknowledgement was presented from a Friend,
 who for many years (before the American war) had stood in the station of a minister, but,
 through unwatchfulness at that time, giving way to a party spirit,
 got disunited from Friends, and divers others with him,
@@ -1207,4 +1208,3 @@ I found afterwards from information, there were several,
 among whom was George Washington, nephew to the president,
 who made himself known to a Friend in company,
 acknowledged the truth of what was remarked, and gave us a kind invitation to his house.
-

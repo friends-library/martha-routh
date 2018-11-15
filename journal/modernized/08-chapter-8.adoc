@@ -1,5 +1,6 @@
 == Chapter VIII.
 
+[.chapter-synopsis]
 Further labours in America in the year 1796.
 
 We proceeded to Stephentown, about eight miles of such extremely rough, hilly road,
@@ -447,7 +448,7 @@ that I felt much bowed in renewed desire, to know and do the divine will,
 if any opening should arise therefrom, to communicate to others;
 which after a time of silent waiting became my engagement, and though laborious,
 I was enabled to discharge my duty to several classes of the people;
-for which I felt the consohng evidence of peace,
+for which I felt the consoling evidence of peace,
 the only sure reward of those who desire to be faithful.
 
 On second-day at Buckingham, a very large monthly meeting, was an open time of labour,
@@ -581,4 +582,3 @@ but some were much tendered,
 affording ground to hope it would tend to their lasting profit.
 On seventh-day the meeting concluded,
 under the renewed prevalence of our Heavenly Father's love
-
