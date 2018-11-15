@@ -146,7 +146,7 @@ His children also seemed more settled;
 and the constables were willing to stay in the village till morning.
 On our return through Worcester, we went to see him in his prison-house,
 found him very composed, and reading [.book-title]#Sewel's History;#^
-footnote:[The History of the Rise, Increase, and Progress of that Christian People Called Quakers, by William Sewel]
+footnote:[[.book-title]#The History of the Rise, Increase, and Progress of that Christian People Called Quakers,# by William Sewel]
 the jailer and his wife were very kind to him.
 Some skilful Friends in the city, on looking over the indictment believed it faulty,
 and took a counsellor's opinion, who advised them to bring it to an assize trial;
