@@ -1,7 +1,12 @@
 == Chapter III.
 
-Several visits after her marriage---Travels with Rebecca Wright--And at different
-times with several other Friends--Visits Worcestershire-- Ireland--Dunkirk, etc.
+[.chapter-synopsis]
+* Several visits after her marriage
+* Travels with Rebecca Wright
+* And at different times with several other Friends
+* Visits Worcestershire
+* Ireland
+* Dunkirk, etc.
 
 My bodily health, for two or three years after our marriage, was not very strong,
 and my exercises were many; yet I went several short journeys,
@@ -141,9 +146,10 @@ and seemed to strengthen his mind in resignation to the permitted trial.
 His children also seemed more settled;
 and the constables were willing to stay in the village till morning.
 On our return through Worcester, we went to see him in his prison-house,
-found him very composed, and reading Sewel's History;
+found him very composed, and reading [.book-title]#Sewel's History;#^
+footnote:[[.book-title]#The History of the Rise, Increase, and Progress of that Christian People Called Quakers,# by William Sewel]
 the jailer and his wife were very kind to him.
-Some skilful Friends in the city, on looking over the indictment believed it faulty,
+Some skillful Friends in the city, on looking over the indictment believed it faulty,
 and took a counsellor's opinion, who advised them to bring it to a trial; which they did,
 and the judge quashed the indictment, and set the prisoner at liberty in open court.
 
@@ -174,7 +180,7 @@ Joseph Williams and his family.
 Next day, the first of the week,
 my companion was opened in testimony in the morning meeting;
 but I felt closely shut up from anything of that kind,
-with a secret intimation veiy clear to my understanding:
+with a secret intimation very clear to my understanding:
 "`You shall not go forth in haste or by flight, so the Lord shall go before you,
 and the God of Israel be your reward.`"
 The revival of this divine promise gratefully humbled my spirit.
@@ -249,7 +255,7 @@ we were permitted to go to Calais by land, and crossed the water, the same eveni
 to Dover, which felt cause of mutual thankfulness.
 We were again kindly received at our friend Richard Baker's.
 
- My companion and self then proceeded to London, and westward as far as Bristol.
+My companion and self then proceeded to London, and westward as far as Bristol.
 In our return we came through Worcester and Stourbridge, my native place,
 staid a few days with my dear brother William Winter,
 who some months after departed this life.
@@ -260,4 +266,3 @@ My dear companion and I proceeded pretty directly home,
 and found our near connexions favoured with health, which,
 with other manifold marks of divine regard,
 was cause of reverent thankfulness to our Almighty Helper.
-

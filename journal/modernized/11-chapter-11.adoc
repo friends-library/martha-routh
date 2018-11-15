@@ -1,5 +1,6 @@
 == Chapter XI
 
+[.chapter-synopsis]
 Her voyage from America.
 
 17th of tenth month, 1797.--I embarked with the dear Friends before mentioned,
@@ -373,4 +374,3 @@ as not to miss one meeting appointed, or intended to be appointed; for which,
 and every other mark of unmerited favour, from the bountiful hand of Israel's God,
 may my soul bow before Him, who lives forever and ever.
 Amen.
-

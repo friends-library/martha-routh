@@ -1,5 +1,6 @@
 == Chapter VII.
 
+[.chapter-synopsis]
 Her travels in America, in 1796, to the 26th of sixth month.
 
 3rd of first month, 1796, first-day.--We attended a meeting at Club Foot creek,
@@ -715,9 +716,11 @@ that it was pleasant to sit by him.
 It was late when we got to our lodgings, having about eight miles to go;
 that I felt very weary: but on lying down I thought I could say with a pious author:
 
+[verse]
+____
 "`Now another day is gone,
-
 I'll sing my Maker's praise, etc.`"
+____
 
 On fourth-day, we attended the monthly meeting at Nine Partners.
 A large number of Friends belong to it,
@@ -768,4 +771,3 @@ I did better than I expected,
 believing the renewings of divine regard were towards the multitude as formerly,
 to feed with that food which He saw best for them.
 To Him belongs the praise of his own works, both now and forever.
-

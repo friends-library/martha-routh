@@ -1,5 +1,6 @@
 == Chapter VI.
 
+[.chapter-synopsis]
 Continuation of her Travels in America, in the remainder of 1795.
 
 9th of eighth month, first-day.--We attended a very large meeting at Berkley.
@@ -435,4 +436,3 @@ in which my mind was early impressed with the
 remembrance of what our blessed Lord spoke of,
 that a man's enemies were those of his own household, which was much enlarged in my view,
 to my own instruction.
-

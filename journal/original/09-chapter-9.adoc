@@ -1,5 +1,6 @@
 == Chapter IX.
 
+[.chapter-synopsis]
 Her Travels in America, during the remainder of the year 1796.
 
 16th of tenth month, first-day morning.
@@ -346,4 +347,3 @@ who are in some sort under Friends' care, in obtaining learning,
 though the greater part are not members.
 Much salutary counsel and caution was communicated to them and others,
 from divers Friends, which I hoped might profitably impress some of their minds.
-

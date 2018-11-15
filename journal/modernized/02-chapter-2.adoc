@@ -1,5 +1,6 @@
 == Chapter 2
 
+[.chapter-synopsis]
 From opening a boarding School, to her marriage with Richard Routh.
 
 My eldest sister being now married and a very precious one, next to her in age,
@@ -399,4 +400,3 @@ to our mutual rejoicing: as did ray worthy companion her kind husband.
 On the 7th of the eighth month, 1776, Martha Winter was married, at Nottingham,
 to Richard Routh, of Manchester; and removed to his residence in that town.
 Her Journal proceeds in the next chapter.
-

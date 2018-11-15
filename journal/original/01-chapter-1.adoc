@@ -1,5 +1,6 @@
 == Chapter I
 
+[.chapter-synopsis]
 From her birth to the 25th year of her age.
 
 Martha Routh was born at Stourbridge, in Worcestershire, the 25th of the fourth month,
@@ -216,7 +217,13 @@ like a tender spiritual father.
 
 About this time I received the following letter from my dear father.
 
-My Dear Child,--This comes with a large salutation of my dear love to thee.
+[.embedded-content-document.letter]
+--
+
+[.salutation]
+My Dear Child,
+
+This comes with a large salutation of my dear love to thee.
 I have also to inform thee, that through the mercy of our God,
 my health is pretty well restored; blessed be his holy name.
 We are now got into another house, which suits us better than that we left: so my dear,
@@ -231,7 +238,10 @@ and the weary are at rest.`"
 
 So my dear, I rest in dear love to thee, and remain thy affectionate father, until death.
 
+[.signed-section-signature]
 Henry Winter.
+
+--
 
 The longer I was thus employed,
 the more weighty and arduous the task appeared to enter into for life.
@@ -252,7 +262,8 @@ When I had been with Anna Coulson, from my first going, five years,
 her worthy husband departed this life.
 I was closely with him during his illness,
 and took down the expressions that dropped from him,
-which are printed in one of the volumes of "`Dying Sayings.`"
+which are printed in one of the volumes of [.book-title]#Dying Sayings#^
+footnote:[[.book-title]#Piety Promoted in a Collection of the Dying Sayings of Many of the People Called Quakers: With a Brief Account of Some of Their Labors in the Gospel, and Sufferings for the Same.#]
 His close was peaceful, and his removal a great loss to us all,
 his company being very pleasant and instructive.
 
@@ -317,4 +328,3 @@ and if for want of that care and watchfulness,
 evil should befall any of those committed to my charge,
 it would be more cause of regret and concern,
 than a double or treble profit could make up.
-

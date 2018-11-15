@@ -1,5 +1,6 @@
 == Chapter XII.
 
+[.chapter-synopsis]
 Her travels in England, and second voyage to America.
 
 After my return home, many trials and exercises fell to my lot,
@@ -331,8 +332,13 @@ returning with the pilot.
 Here may be inserted an extract of a letter from Rebecca Jones,
 written on the occasion of Martha Routh's return home.
 
+[.embedded-content-document.letter]
+--
+
+[.signed-section-context-open]
 Philadelphia, Fifth month 29th, 1805.
 
+[.salutation]
 My dearly beloved friend and sister Martha Routh!
 
 Feeling my heart this morning renewedly bound to you,
@@ -369,6 +375,8 @@ with a peaceful admission among His faithful servants,
 when your tribulations and labours are over:
 and be your ever blessed "`Omega,`" your "`evening song.`"
 
+--
+
 I was now left in the Rose entirely with strangers,
 who were very kind and civil in their way;
 but I felt the trial so great of having no member of our Society on board,
@@ -382,4 +390,3 @@ though he has since become a member of our religious Society.
 I suffered while at sea as heretofore, from sickness,
 yet not so heavily as in former voyages,
 and in about six weeks was favoured to land safely at Liverpool.
-
