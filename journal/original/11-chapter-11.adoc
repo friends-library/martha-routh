@@ -1,7 +1,7 @@
 == Chapter XI
 
 [.chapter-synopsis]
-Her voyage from America.
+* Her voyage from America.
 
 17th of tenth month, 1797.--I embarked with the dear Friends before mentioned,
 and when the loved objects of tender regard had left us, and were no longer to be seen,

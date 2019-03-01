@@ -1,7 +1,7 @@
 == Chapter I
 
 [.chapter-synopsis]
-From her birth to the 25th year of her age.
+* From her birth to the 25th year of her age.
 
 Martha Routh was born at Stourbridge, in Worcestershire, the 25th of the fourth month,
 1743.

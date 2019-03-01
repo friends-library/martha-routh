@@ -1,7 +1,7 @@
 == Chapter VIII.
 
 [.chapter-synopsis]
-Further labours in America in the year 1796.
+* Further labours in America in the year 1796.
 
 We proceeded to Stephentown, about eight miles of such extremely rough, hilly road,
 as was very fatiguing to the body;
