@@ -1,7 +1,7 @@
 == Chapter IX.
 
 [.chapter-synopsis]
-Her Travels in America, during the remainder of the year 1796.
+* Her Travels in America, during the remainder of the year 1796.
 
 16th of tenth month, first-day morning.
 We attended a large gathering of our own Society and others.
@@ -62,7 +62,7 @@ and to gather the wanderers to the fold of rest.
 It was their preparative meeting, in which the queries were answered in writing:
 and though there appeared a considerable number likely to be active in discipline,
 they got slowly forward, which is often the case to a trying degree,
-by having  much dependence on those in the station of overseers.
+by having much dependence on those in the station of overseers.
 I have been much exercised for the help of Friends in many places;
 which labour has generally been well accepted.
 
